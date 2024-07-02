@@ -1,4 +1,4 @@
-# CAPSTONE-PROJECT-4-Topic-Modeling
+# CAPSTONE-PROJECT-4-Topic-Modeling  on BBC News Articles
 In this project your task is to identify major themes/topics across a collection of BBC news articles. You can use clustering algorithms such as Latent Dirichlet Allocation (LDA), Latent Semantic Analysis (LSA) etc
 
 Conducted EDA and applied text preprocessing techniques, including BoW , Count
